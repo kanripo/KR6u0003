@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:26.170418
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 慈仁問八十種好經
 #+PROPERTY: CBETA_ID T85n2867
 #+PROPERTY: ID KR6u0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2867
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0003_T_000-1327a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0003_T_001-1327a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2867¶
-
- 慈仁問八十種好經¶
+No. 2867¶
+慈仁問八十種好經¶
 ¶
 
 慈仁問佛。何因緣揚八十種好。佛言。一者世¶
